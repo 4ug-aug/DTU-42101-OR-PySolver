@@ -8,7 +8,7 @@ Scriptet kan løse følgende type-opgaver:
 
 ## How to use
 ***
-Scriptet bruges ved at indtaste de nødvendige matricer, basis, costs, edges eller flow **nede i bunden** på linje 294:
+Scriptet bruges ved at indtaste de nødvendige matricer, basis, costs, edges eller flow **nede i bunden** på linje 294 og udkommentere den function der skal køres (der er smartere måder at gøre det på men det på (: ):
 
 ```python
 
