@@ -6,7 +6,7 @@ Scriptet kan løse følgende type-opgaver:
 3. Total Unimodularity
 4. Transport problem
 
-## How to us
+## How to use
 ***
 Scriptet bruges ved at indtaste de nødvendige matricer, basis, costs, edges eller flow **nede i bunden** på linje 294:
 
